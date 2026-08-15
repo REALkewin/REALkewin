@@ -1,4 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/REALkewin">
+    <img src="https://komarev.com/ghpvc/?username=REALkewin&label=gyats&color=79acff" alt="views" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/29a136f65ce2a7e88ae73efb1c52f268/1be66cc676600b91-3f/s1280x1920/60bc88f459410bee4b37cf04fb2e6c2812329713.pnj" alt="jo follow me wink" />
+</p>
+
 
 <!--
 **REALkewin/REALkewin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
